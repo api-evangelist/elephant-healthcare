@@ -1,8 +1,30 @@
 aid: elephant-healthcare
 name: Elephant Healthcare
-description: Elephant Healthcare is a company surfaced as a portfolio company of general-catalyst, seedcamp
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: >-
+  Elephant Healthcare is a global health-technology company, headquartered in the
+  UK, that partners with governments to digitise and strengthen public health
+  systems across Sub-Saharan Africa and South Asia. Its flagship product,
+  ElephantOS, is a mobile- and offline-first electronic health record (EHR) that
+  streamlines clinical workflows for primary and secondary care facilities,
+  serving over 19 million contracted patients across Nigeria, Kenya and Pakistan.
+  The company also builds Elephant Nudge, a clinical co-pilot that guides and
+  rewards quality of care, and Elephant Platform, an emerging AI-driven
+  marketplace that connects clinicians to third-party healthcare software, medical
+  devices and supply-chain partners. Elephant is backed by General Catalyst and
+  Seedcamp. As of July 2026 the company publishes no public developer API,
+  OpenAPI, or developer portal.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/634ce7df41ee2ce0bc77870b/6790e4fc5141f14989eda4fd_Screenshot%202025-01-22%20at%2013.30.37.png
 url: https://raw.githubusercontent.com/api-evangelist/elephant-healthcare/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +35,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Health Tech
+- Electronic Health Records
+- EHR
+- Digital Health
+- Public Health
+- Africa
+- Interoperability
+- Primary Care
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +55,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://elephant.healthcare
+  url: https://elephant.healthcare
+- type: GitHubOrganization
+  url: https://github.com/elephant-healthcare
+- type: Support
+  url: https://elephant.healthcare/contact-us
+- type: PrivacyPolicy
+  url: https://privacy.elephant.healthcare/privacy-policy
+- type: TermsOfService
+  url: https://privacy.elephant.healthcare/software-terms-of-use
+- type: Packages
+  url: packages/elephant-healthcare-packages.yml
+- type: LLMsTxt
+  url: llms/elephant-healthcare-llms.txt
+- type: DomainSecurity
+  url: security/elephant-healthcare-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

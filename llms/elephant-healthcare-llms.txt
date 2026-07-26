@@ -1,0 +1,29 @@
+# Elephant Healthcare
+
+> Global health-technology company partnering with governments to digitise and strengthen public health systems across Sub-Saharan Africa and South Asia. Flagship product ElephantOS is a mobile- and offline-first EHR serving 19M+ contracted patients in Nigeria, Kenya and Pakistan. No public developer API is published today; Elephant Platform is an emerging AI-driven marketplace for third-party clinical integrations.
+
+## Products
+- [ElephantOS](https://www.elephant.healthcare/digitise): Mobile- and offline-first electronic health record for primary/secondary care facilities.
+- [Elephant Nudge](https://www.elephant.healthcare/product): Clinical co-pilot / decision-support that guides and rewards quality of care (launched 2024).
+- [Elephant Platform](https://www.elephant.healthcare/integrate): AI-powered marketplace connecting clinicians to third-party software, medical devices, and supply-chain partners (limited availability).
+
+## Company
+- [Home](https://elephant.healthcare/)
+- [About](https://elephant.healthcare/about-us)
+- [Impact](https://elephant.healthcare/impact)
+- [Contact](https://elephant.healthcare/contact-us)
+- [Careers](https://elephant.healthcare/careers)
+- [LinkedIn](https://www.linkedin.com/company/elephant-healthcare/)
+
+## Legal & Privacy
+- [Privacy Hub](https://privacy.elephant.healthcare/)
+- [Privacy Policy](https://privacy.elephant.healthcare/privacy-policy)
+- [Software Terms of Use](https://privacy.elephant.healthcare/software-terms-of-use)
+
+## Developer
+- [GitHub Organization](https://github.com/elephant-healthcare)
+- [npm org (@elephant-healthcare)](https://www.npmjs.com/org/elephant-healthcare)
+
+## Notes
+- No public API, OpenAPI, developer portal, or hosted MCP server was found (searched 2026-07-19).
+- Backed by General Catalyst and Seedcamp.

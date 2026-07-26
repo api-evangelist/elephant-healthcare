@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.npmjs.com/org/elephant-healthcare
+notes: >-
+  Elephant Healthcare publishes under the verified npm org scope
+  @elephant-healthcare and the GitHub org github.com/elephant-healthcare. The
+  published package below is a first-party maintained fork of a third-party
+  Kafka/Confluent utility (internal platform tooling), not a client SDK for a
+  public Elephant Healthcare API — Elephant does not expose a public developer
+  API, so no API-client SDKs exist. Recorded as an official package but NOT
+  wired as an `SDKs` pointer.
+packages:
+- language: javascript
+  registry: npm
+  name: "@elephant-healthcare/confluent-schema-registry"
+  url: https://www.npmjs.com/package/@elephant-healthcare/confluent-schema-registry
+  install: npm install @elephant-healthcare/confluent-schema-registry
+  version: 3.2.1-hotfix.1
+  official: true
+  kind: internal-tooling-fork
+  upstream: https://github.com/kafkajs/confluent-schema-registry
