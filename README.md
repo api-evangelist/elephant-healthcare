@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Elephant Healthcare is a company surfaced as a portfolio company of general-catalyst, seedcamp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Elephant Healthcare is a global health-technology company, headquartered in the UK, that partners with governments to digitise and strengthen public health systems across Sub-Saharan Africa and South Asia. Its flagship product, ElephantOS, is a mobile- and offline-first electronic health record (EHR) that streamlines clinical workflows for primary and secondary care facilities, serving over 19 million contracted patients across Nigeria, Kenya and Pakistan. The company also builds Elephant Nudge, a clinical co-pilot that guides and rewards quality of care, and Elephant Platform, an emerging AI-driven marketplace that connects clinicians to third-party healthcare software, medical devices and supply-chain partners. Elephant is backed by General Catalyst and Seedcamp. As of July 2026 the company publishes no public developer API, OpenAPI, or developer portal.
 
-Backed by: general-catalyst, seedcamp — http://elephant.healthcare
+**Areas:** Company · Healthcare · Health Tech · Electronic Health Records · Digital Health · Public Health · Africa · Interoperability · Primary Care
+
+## Elephant Healthcare on APIs.io
+
+Everything profiled for Elephant Healthcare is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/elephant-healthcare/](https://apis.io/providers/elephant-healthcare/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Elephant Healthcare Domain Security](https://apis.io/security/elephant-healthcare/elephant-healthcare-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://elephant.healthcare)
+- [Support](https://elephant.healthcare/contact-us)
+- [Terms of service](https://privacy.elephant.healthcare/software-terms-of-use)
+- [Privacy policy](https://privacy.elephant.healthcare/privacy-policy)
+- [GitHub](https://github.com/elephant-healthcare)
+
+## API Evangelist rating
+
+**Kin Score 10.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/elephant-healthcare/](https://apis.io/providers/elephant-healthcare/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Elephant Healthcare: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/elephant-healthcare/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
